@@ -65,6 +65,8 @@ others:
     level: 3
   - name: ExtJS
     level: 4
+  - name: CodeIgniter
+    level: 3
 
 # Build settings
 
