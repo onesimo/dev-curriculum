@@ -13,8 +13,9 @@ email: onesimobatista@gmail.com
 github: onesimo 
 facebook: onesimobatista
 linkedin: onesimo
-bio: "PHP developer, music and technology lover.
-      Zend Certified PHP Engineer"
+bio: "PHP developer, music and technology lover. 
+      Zend Certified PHP Engineer,
+      I'm a dreamer and maker"
 
 # Skills
 #
@@ -28,6 +29,7 @@ bio: "PHP developer, music and technology lover.
 # You can change these names in _includes/_skill-level-name.html if you wish
 #
 # If you don't want one of the sections below, leave the variable without any values
+<!--
 front-end:
   - name: HTML 5
     level: 4
@@ -57,7 +59,7 @@ front-end:
     level: 3
   - name: Bower
     level: 3
-
+-->
 back-end:
   - name: PHP
     level: 5
