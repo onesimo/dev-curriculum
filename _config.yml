@@ -8,7 +8,7 @@ language: "" # language to set into html tag, default is en
 
 author: Onésimo Batista
 author-title: PHP Developer
-gravatar: d36a082aacb53b6f76869748fb4b81d4
+gravatar: 59d936f1044c5a04f77afcd548ea505b
 email: onesimobatista@gmail.com
 github: onesimo 
 facebook: onesimobatista
@@ -29,132 +29,36 @@ bio: "PHP developer, music and technology lover.
 # You can change these names in _includes/_skill-level-name.html if you wish
 #
 # If you don't want one of the sections below, leave the variable without any values
-<!--
-front-end:
-  - name: HTML 5
-    level: 4
-  - name: CSS 3
-    level: 4
-  - name: JavaScript
-    level: 4
-  - name: jQuery
-    level: 4
-  - name: Angular
-    level: 4
-  - name: Vue.js
-    level: 2
-  - name: Bootstrap
-    level: 4
-  - name: Materialize CSS
-    level: 5
-  - name: LESS
-    level: 3
-  - name: SASS
-    level: 3
-  - name: Stylus
-    level: 4
-  - name: Gulp
-    level: 4
-  - name: Grunt
-    level: 3
-  - name: Bower
-    level: 3
--->
+
 back-end:
   - name: PHP
-    level: 5
-  - name: Node.js
-    level: 3
-  - name: Ruby
-    level: 2
-  - name: Python
-    level: 2
-  - name: Java
     level: 4
   - name: COBOL
     level: 2
   - name: SQL
-    level: 4
-  - name: Lua
-    level: 2
-
-mobile:
-  - name: Android
-    level: 2
-  - name: Apache Cordova
-    level: 4
-  - name: Ionic
-    level: 4
-  - name: NativeScript
     level: 3
-
+    
 db:
   - name: MySQL
-    level: 4
+    level: 3
   - name: PostgreSQL
     level: 3
-  - name: MongoDB
-    level: 4
   - name: SQL Server
-    level: 2
-  - name: Oracle
-    level: 3
-  - name: Firebase
-    level: 3
-  - name: NoSQL
-    level: 4
-
-devops:
-  - name: Docker
-    level: 3
-  - name: Vagrant
-    level: 3
-  - name: Jenkins
-    level: 1
-  - name: Git
-    level: 5
-  - name: Apache Maven
-    level: 3
-  - name: Continuous Integration
-    level: 3
-  - name: Continuous Delivery
-    level: 2
-
-methodologies:
-  - name: Agile Methodologies
-    level: 3
-  - name: Scrum
-    level: 4
-  - name: RUP
     level: 3
 
 others:
   - name: Web Services
-    level: 5
+    level: 3
   - name: REST
-    level: 5
-  - name: JEE, JSF, JPA, EJB, CDI
     level: 3
-  - name: iReport, Jasper Reports
-    level: 2
-  - name: Hibernate
+  - name: Laravel
     level: 3
-  - name: Grails
-    level: 2
-  - name: Symfony
-    level: 3
-  - name: Twig
+  - name: Lumen
     level: 4
-  - name: Doctrine ORM
+  - name: Zend Framework
     level: 3
-  - name: Laravel, Blade, Eloquent ORM
-    level: 5
-  - name: Ruby on Rails
-    level: 3
-  - name: MEAN Stack
+  - name: ExtJS
     level: 4
-  - name: Spring
-    level: 3
 
 # Build settings
 
