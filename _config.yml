@@ -15,7 +15,7 @@ facebook: onesimobatista
 linkedin: onesimo
 bio: "PHP developer, music and technology lover. 
       Zend Certified PHP Engineer,
-      I'm a dreamer and maker"
+      I'm a dreamer and maker."
 
 # Skills
 #
@@ -56,6 +56,10 @@ others:
   - name: Lumen
     level: 4
   - name: Zend Framework
+    level: 3
+  - name: Git/GitHub
+    level: 3
+  - name: Linux
     level: 3
   - name: ExtJS
     level: 4
