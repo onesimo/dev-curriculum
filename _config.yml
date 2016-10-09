@@ -33,8 +33,10 @@ bio: "PHP developer, music and technology lover.
 back-end:
   - name: PHP
     level: 4
-  - name: COBOL
+  - name: Java
     level: 2
+  - name: Node.JS
+    level: 1
   - name: SQL
     level: 3
     
